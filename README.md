@@ -1,2 +1,2 @@
 # Food-emoji-interpreter
-Created with CodeSandbox
+React app which shows the meaning of the food emojis
